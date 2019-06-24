@@ -5,7 +5,7 @@
 #include <stdbool.h>
 #include <time.h>
 
-//Project 1
+
 #define SEATNUM 250
 #define TEL 8
 #define SEATLOW 1
@@ -16,7 +16,7 @@
 #define SEATCOST 20
 #define BILLION  1000000000L;
 
-//Project 2
+
 #define SEAT 10
 #define ZONE_A 5
 #define ZONE_B 10
